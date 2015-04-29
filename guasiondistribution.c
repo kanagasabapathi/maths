@@ -1,3 +1,6 @@
+/*run the program using the following shell command*/
+/*gcc -o guasiondistribution guasiondistribution.c -L/path/to/libs -lm*/
+
 #include<stdio.h>
 #include<math.h>
 #define pi 3.14
